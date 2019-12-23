@@ -1,0 +1,5 @@
+/Users/sonalimarlin/projects/High-Score-CSharp/High-Score-CSharp/bin/Debug/High-Score-CSharp.exe
+/Users/sonalimarlin/projects/High-Score-CSharp/High-Score-CSharp/bin/Debug/High-Score-CSharp.pdb
+/Users/sonalimarlin/projects/High-Score-CSharp/High-Score-CSharp/obj/Debug/High-Score-CSharp.csprojAssemblyReference.cache
+/Users/sonalimarlin/projects/High-Score-CSharp/High-Score-CSharp/obj/Debug/High-Score-CSharp.exe
+/Users/sonalimarlin/projects/High-Score-CSharp/High-Score-CSharp/obj/Debug/High-Score-CSharp.pdb
